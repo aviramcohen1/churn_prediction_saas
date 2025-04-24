@@ -29,7 +29,7 @@ churn_prediction_saas/
 │   └── dashboard.py              # Streamlit app
 ├── main.py                       # CLI training/testing entry point
 ├── requirements.txt              # Required packages
-├── dashboard_screenshot.png      # Dashboard screenshot (optional)
+├── dashboard_screenshot.png      # Dashboard screenshot 
 └── README.md                     # Project description
 ```
 

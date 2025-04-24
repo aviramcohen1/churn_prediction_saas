@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.env/
+.vscode/
+.ipynb_checkpoints
+.DS_Store
+.streamlit/
+*.csv
+*.pkl
+*.png
+*.log
+.idea/

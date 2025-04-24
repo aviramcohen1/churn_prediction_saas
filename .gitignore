@@ -8,7 +8,5 @@ venv/
 .streamlit/
 *.csv
 *.pkl
-*.png
 *.log
 .idea/
-*.csv

@@ -13,6 +13,7 @@ This project is a complete, production-ready example of a **Customer Churn Predi
   - No Action
 - Streamlit dashboard for real-time interaction
 - Modular and readable codebase
+- Export recommendations as downloadable CSV
 
 ---
 
@@ -63,7 +64,12 @@ Then open the link (usually http://localhost:8501/) and upload your `saas_data.c
 ## 🖼 Screenshot
 Below is a screenshot of the interactive dashboard:
 
+## 🖼 Dashboard Example
+
+Below is a screenshot showing both recommendations and the churn risk visualization:
+
 ![Dashboard Screenshot](dashboard_screenshot.png)
+
 
 ---
 

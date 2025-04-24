@@ -11,3 +11,4 @@ venv/
 *.png
 *.log
 .idea/
+*.csv

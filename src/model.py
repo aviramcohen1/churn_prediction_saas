@@ -4,7 +4,7 @@ from sklearn.metrics import classification_report
 import joblib
 
 def train_model(df):
-    X = df.drop(columns=['churn', 'customer_id'])  # הסר גם את customer_id
+    X = df.drop(columns=['churn', 'customer_id'])  # הסר גם את customer_id-לא מועיל
     y = df['churn']
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
